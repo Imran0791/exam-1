@@ -1,0 +1,209 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: 'lato', sans-serif;
+}
+header{
+	padding: 32px 0px;
+	width: 100%;
+	float: left;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+logoside{
+    width: 30%;
+    float: left;
+}
+
+.menuside{
+    width: 70%;
+    float: right;
+    margin-top: -30px;
+}
+.menuside nav{
+    padding-top: 0px;
+    padding-bottom: 40px;
+}
+.menuside nav ul{
+    margin-top: 0px;
+}
+.menuside nav ul li{
+    display: inline-block;
+    padding-inline: 16px;
+    padding-left: 16px;
+
+}
+.menuside nav ul li a{
+    font-weight: 13.5;
+    color: #a2a2a2;
+    text-decoration: none;
+}
+.one:hover{
+    cursor: pointer;
+    transform: scale(1.2,1.2);
+    transition: .6s;
+}
+.two:hover{
+    cursor: pointer;
+    transform: scale(1.2,1.2);
+    transition: .6s;
+}
+.three:hover{
+    cursor: pointer;
+    transform: scale(1.2,1.2);
+    transition: .6s;
+}
+.fore:hover{
+    cursor: pointer;
+    transform: scale(1.2,1.2);
+    transition: .6s;
+}
+.five:hover{
+    cursor: pointer;
+    transform: scale(1.2,1.2);
+    transition: .6s;
+}
+.banner{
+	background: url(../img/banner.jpg)no-repeat;
+	background-size: cover;
+	float: left;
+	width: 100%;
+}
+.banner-content{
+	margin: 0 auto;
+	width: 100%;
+	padding-top: 170px;
+	padding-bottom: 165px;
+	text-align: center;
+}
+.banner-content h2{
+	font-size: 50px;
+	color: #fff;
+	font-weight: bold;
+}
+.banner-content p{
+	font-size: 20px;
+	color: #fff;
+	font-weight: 400;
+	margin-top: 30px;
+
+}
+.call-btn {
+	background-color: #99c50a;
+	padding: 32px 27px;
+	color: #fff;
+	padding: 22px 30px;
+	margin: 60px 0px;
+	cursor: pointer;
+	margin-top: 60px;
+	border-radius: 10%;
+	border-color: #99c50a;
+	transform: scale(1.2,1.2);
+    transition: .6s;
+
+}
+.HIW {
+    width: 100%;
+    float: left;
+    padding: 80px 0px;
+}
+.HIW-body{
+	width: 100%;
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+}
+.HIW-body h2{
+	color: #515151;
+    font-size: 30px;
+    padding: 25px 0px;
+}
+.HIW-body p{
+	color: #919191;
+    font-size: 17px;
+}
+.DAP {
+	width:100%;
+    float: left;
+    background-image: linear-gradient(to right, #e2f8ff 50%, #f5f9eb 50%);
+}
+.icon2{
+    width: 50%;
+    float: left;
+}
+.icon2i{
+    width: 50%;
+    float: left;
+}
+.icon2i img{
+    padding-top: 85px;
+    padding-bottom: 112px;
+    padding-left: 100px;
+}
+.icont1{
+    width: 50%;
+    float: left;
+}
+.icont1 h2{
+    font-size: 23.2px;
+    padding-top: 49px;
+    padding-bottom: 36px;
+}
+.icont1 p{
+    font-size: 17.2px;
+    padding-bottom: 30px;
+}
+.icon2-btn{
+    background: #26a6d1;
+    font-size: 23.2px;
+    padding: 8px 13px;
+    color: #fff;
+    border-radius: 10px;
+    margin-bottom: 45px;
+    border-color: #26a6d1:;
+}
+.icon3{
+    width: 50%;
+    float: left;
+}
+.icon3i{
+    width: 50%;
+    float: left;
+}
+.icon3i img{
+    padding-top: 85px;
+    padding-bottom: 132px;
+    padding-left: 100px;
+}
+.icont2{
+    width: 50%;
+    float: left;
+}
+.icont2 h2{
+    font-size: 23.2px;
+    padding-top: 49px;
+    padding-bottom: 36px;
+}
+.icont2 p{
+    font-size: 17.2px;
+    padding-bottom: 30px;
+}
+.icon3-btn{
+    background: #add136;
+    font-size: 23.2px;
+    padding: 8px 13px;
+    color: #fff;
+    border-radius: 10px;
+    margin-bottom: 45px;
+    border-color: #add136;
+}
+.footer{
+	width: 100%;
+	padding-top: 100px;
+	padding-bottom: 60px;
+	float: left;
+}
